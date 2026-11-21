@@ -2,5 +2,6 @@
     "title": "Test2",
     "slug": "test2",
     "description": "test2 desc",
-    "severity": 1
+    "severity": 1,
+    "date": "22-11-2026"
 }
